@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.container{
+    width: 1000px;
+    display: grid;
+}
+
+h1{
+    text-align: center;
+}
+
+#reset{
+    display: block;
+}
