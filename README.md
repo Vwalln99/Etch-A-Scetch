@@ -13,3 +13,5 @@ The button Reset/Start calls the function createGrid, deleteGrid and drawingColo
 The function deleteGrid, obv, deletes the old grid.
 The function drawingColor calls the function randomColor and lets you draw on de sketchpad with random generated colors.
 The function randomColor randomizes the colors to draw with.
+
+ https://vwalln99.github.io/Etch-A-Scetch/
